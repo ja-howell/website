@@ -1,5 +1,5 @@
 body {
-  background-color: #162f51;
+  background-color: #05224b;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
@@ -41,12 +41,12 @@ li {
 
 a {
   text-decoration: none;
-  color: DodgerBlue;
+  color: rgb(9, 196, 253);
   font-size: 20px;
 }
 
 a:visited {
-  color: DodgerBlue;
+  color: rgb(9, 196, 253);
 }
 
 h1 {
